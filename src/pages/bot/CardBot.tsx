@@ -70,7 +70,7 @@ export default function CardBot() {
                                 </Card>
                             </div>
                             <div >
-                                <Button className="w-full">Buy</Button>
+                                <Button className="w-full">Pay</Button>
                             </div>
                         </div>
                 </CardContent>
